@@ -1,0 +1,22 @@
+input {
+    width: 100%;
+  }
+  
+  .kg-button {
+    min-width: 80px;
+  }
+  
+  .kg-row {
+    margin: 10px 5px;
+  }
+
+  .todo-container
+  {
+    padding: 20px;
+    margin: 120px;
+
+    border: solid 2px red ;
+    border-radius: 14px;
+    background-color: antiquewhite;
+    align-items: center;
+  }
